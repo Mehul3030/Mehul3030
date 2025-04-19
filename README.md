@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mehultheanalyst](https://www.datascienceportfol.io/mehultheanalyst)
 
-- 📫 How to reach me **mehulpatil1000@gmail.com**
+- 📫 How to reach me  GMAIL:**mehulpatil1000@gmail.com**
+                      LINKEDIN:**https://www.linkedin.com/in/mehul-patil-05687b1b7/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
