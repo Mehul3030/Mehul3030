@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mehultheanalyst](https://www.datascienceportfol.io/mehultheanalyst)
 
-- 📫 How to reach me **mehulpatil@gmail.com**
+- 📫 How to reach me **mehulpatil1000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
